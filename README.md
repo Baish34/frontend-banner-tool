@@ -1,7 +1,7 @@
 # Frontend Banner Project
 
 ## Description
-This project features a full-width banner with customizable background color, text, and image. The changes can be made using a simple form with JavaScript.
+This project features a full-width banner with customizable banner text and image. The changes can be made using a simple form with JavaScript.
 
 ## Setup
 1. Clone the repository: `git clone (https://github.com/Baish34/frontend-banner-tool.git)`
